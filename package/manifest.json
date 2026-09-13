@@ -1,0 +1,9 @@
+{
+  "name": "DadsDustBuster",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/DadxIsxBored/DadsDustBuster",
+  "description": "Removes transient dust plumes from building, dismantling, hoeing, cultivating, and other Valheim actions while preserving sounds and debris.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
+}
